@@ -7,7 +7,7 @@ Those rules are :
      top where it make it easier for user to accesss. Also consistent about the colour choise throughtout the website.
   
   2.Shortcuts :
-    I also imply some shortcuts into spesifics tpic that are shown in my portofolio by pressing the options on the navbar>
+     I also imply some shortcuts into spesifics tpic that are shown in my portofolio by pressing the options on the           nav bar
 
   3. Information feedback:
      There is a bit of information feedback user hover over the options in the nav bar.
